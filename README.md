@@ -67,5 +67,3 @@ https://app.diagrams.net/#G1grljtRPxLfGA2RVKBwZfO3rmwo_OQC0B#%7B%22pageId%22%3A%
 - Entity Relationship Diagram (ERD)
 - Data Dictionary
 - UI Design
-
-```
