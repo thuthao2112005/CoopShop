@@ -69,5 +69,3 @@ https://app.diagrams.net/#G1grljtRPxLfGA2RVKBwZfO3rmwo_OQC0B#%7B%22pageId%22%3A%
 - UI Design
 
 ```
-
-Đây là cách các BA và Software Engineer thường trình bày project trên GitHub để HR có thể xem nhanh mà không cần tải file PDF.
